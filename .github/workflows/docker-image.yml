@@ -52,8 +52,8 @@ jobs:
       uses: docker/metadata-action@v4
       with:
         images: |
-          nickmanc/${{ github.repository }}
-          ghcr.io/${{ github.repository }}
+#          nickmanc/${{ github.repository }}
+#          ghcr.io/${{ github.repository }}
           ${{ secrets.AWS_ACCOUNT_NUMBER }}.dkr.ecr.${{ secrets.AWS_REGION }}.amazonaws.com/${{ github.repository }}
         flavor: latest=true
         tags: |
