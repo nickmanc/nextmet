@@ -52,7 +52,7 @@ jobs:
       uses: docker/metadata-action@v4
       with:
         images: |
-          ${{ secrets.AWS_ACCOUNT_NUMBER }}.dkr.ecr.${{ secrets.AWS_REGION }}.amazonaws.com/${{ github.repository }}
+          ${{ secrets.AWS_ACCOUNT_NUMBER }}.dkr.ecr.${{ secrets.AWS_REGION }}.amazonaws.com
         flavor: latest=true
         tags: |
           type=ref,event=branch
