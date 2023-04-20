@@ -31,8 +31,8 @@ st_autorefresh(interval=15 * 1000)
 if datetime.now().hour < 11:
     from_container = st.container()
     # Display tram information in a table
-    from_container.subheader(f'[{os.environ["child2_morning_name"]}]({os.environ["child2_morning_url"]})')
-    tramDepartureInfo = get_tram_departures({os.environ["child2_morning_ids"]})
+    from_container.subheader(f'[{os.environ["morning_name"]}]({os.environ["morning_url"]})')
+    tramDepartureInfo = get_tram_departures({os.environ["morning_ids"]})
     trams = tramDepartureInfo[0]
     if len(trams) > 0:
         for tram in trams:
@@ -45,8 +45,8 @@ if datetime.now().hour < 11:
         from_container.markdown(NO_TRAM_SCHEDULED_MESSAGE)
 
 to_container = st.container()
-to_container.subheader(f'[{os.environ["child2_afternoon_name"]}]({os.environ["child2_afternoon_url"]})')
-tramDepartureInfo = get_tram_departures({os.environ["child2_afternoon_ids"]})
+to_container.subheader(f'[{os.environ["afternoon_name"]}]({os.environ["afternoon_url"]})')
+tramDepartureInfo = get_tram_departures({os.environ["afternoon_ids"]})
 trams = tramDepartureInfo[0]
 if len(trams) > 0:
     for tram in trams:
@@ -63,8 +63,8 @@ else:
 if datetime.now().hour >= 11:
     from_container = st.container()
     # Display tram information in a table
-    from_container.subheader(f'[{os.environ["child2_morning_name"]}]({os.environ["child2_morning_url"]})')
-    tramDepartureInfo = get_tram_departures({os.environ["child2_morning_ids"]})
+    from_container.subheader(f'[{os.environ["morning_name"]}]({os.environ["morning_url"]})')
+    tramDepartureInfo = get_tram_departures({os.environ["morning_ids"]})
     trams = tramDepartureInfo[0]
     if len(trams) > 0:
         for tram in trams:
