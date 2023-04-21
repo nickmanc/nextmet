@@ -112,7 +112,7 @@ footer = f"""<style>
     <tr>
       <td>{datetime.now().strftime('%H:%M:%S')}</td>
       <td>Contains <a href="https://www.tfgm.com">TfGM</a> data</td>      
-      <td>{os.getenv("NEXTMET_BUILD_VERSION", "local")}</td>
+      <td>{os.getenv("RENDER_GIT_COMMIT", "local")}</td>
     </tr>
   </table>
 </div>
