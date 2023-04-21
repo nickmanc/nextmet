@@ -32,7 +32,7 @@ if datetime.now().hour < 11:
     from_container = st.container()
     # Display tram information in a table
     from_container.subheader(f'[{os.environ["morning_name"]}]({os.environ["morning_url"]})')
-    tramDepartureInfo = get_tram_departures({os.environ["morning_ids"]})
+    tramDepartureInfo = get_tram_departures(os.environ["morning_ids"].split(","))
     trams = tramDepartureInfo[0]
     if len(trams) > 0:
         for tram in trams:
@@ -46,7 +46,7 @@ if datetime.now().hour < 11:
 
 to_container = st.container()
 to_container.subheader(f'[{os.environ["afternoon_name"]}]({os.environ["afternoon_url"]})')
-tramDepartureInfo = get_tram_departures({os.environ["afternoon_ids"]})
+tramDepartureInfo = get_tram_departures(os.environ["afternoon_ids"].split(","))
 trams = tramDepartureInfo[0]
 if len(trams) > 0:
     for tram in trams:
@@ -64,7 +64,7 @@ if datetime.now().hour >= 11:
     from_container = st.container()
     # Display tram information in a table
     from_container.subheader(f'[{os.environ["morning_name"]}]({os.environ["morning_url"]})')
-    tramDepartureInfo = get_tram_departures({os.environ["morning_ids"]})
+    tramDepartureInfo = get_tram_departures(os.environ["morning_ids"].split(","))
     trams = tramDepartureInfo[0]
     if len(trams) > 0:
         for tram in trams:
