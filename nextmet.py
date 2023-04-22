@@ -55,6 +55,9 @@ NO_TRAM_SCHEDULED_MESSAGE = "No trams currently scheduled to depart."
 tz = pytz.timezone('Europe/London')
 current_time = datetime.utcnow().replace(tzinfo=pytz.utc).astimezone(tz)
 
+tz = pytz.timezone('Europe/London')
+current_time = datetime.utcnow().replace(tzinfo=pytz.utc).astimezone(tz)
+
 st.set_page_config(layout="wide")
 cookies = CookieManager(  # TODO - switch to encrypted cookies
     prefix="www.nextmet.co.uk"
