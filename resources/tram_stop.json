@@ -1,0 +1,728 @@
+{
+  "Abraham Moss": {
+    "location_ids": [
+      103197,
+      103198
+    ],
+    "href": "/public-transport/tram/stops/abraham-moss-tram"
+  },
+  "Altrincham": {
+    "location_ids": [
+      103170,
+      103171
+    ],
+    "href": "/public-transport/tram/stops/altrincham-tram"
+  },
+  "Anchorage": {
+    "location_ids": [
+      103258,
+      103259
+    ],
+    "href": "/public-transport/tram/stops/anchorage-tram"
+  },
+  "Ashton Moss": {
+    "location_ids": [
+      103230,
+      103231
+    ],
+    "href": "/public-transport/tram/stops/ashton-moss-tram"
+  },
+  "Ashton West": {
+    "location_ids": [
+      103232,
+      103233
+    ],
+    "href": "/public-transport/tram/stops/ashton-west-tram"
+  },
+  "Ashton-Under-Lyne": {
+    "location_ids": [
+      103226,
+      103227,
+      103228,
+      103229
+    ],
+    "href": "/public-transport/tram/stops/ashton-under-lyne-tram"
+  },
+  "Audenshaw": {
+    "location_ids": [
+      103234,
+      103235
+    ],
+    "href": "/public-transport/tram/stops/audenshaw-tram"
+  },
+  "Baguley": {
+    "location_ids": [
+      103139,
+      103140
+    ],
+    "href": "/public-transport/tram/stops/baguley-tram"
+  },
+  "Barlow Moor Road": {
+    "location_ids": [
+      103143,
+      103144
+    ],
+    "href": "/public-transport/tram/stops/barlow-moor-road-tram"
+  },
+  "Barton Dock Road": {
+    "location_ids": [
+      103356,
+      103357
+    ],
+    "href": "/public-transport/tram/stops/barton-dock-road-tram"
+  },
+  "Benchill": {
+    "location_ids": [
+      103141,
+      103142
+    ],
+    "href": "/public-transport/tram/stops/benchill-tram"
+  },
+  "Besses O’ Th’ Barn": {
+    "location_ids": [
+      103201,
+      103202
+    ],
+    "href": "/public-transport/tram/stops/besses-o-th-barn-tram"
+  },
+  "Bowker Vale": {
+    "location_ids": [
+      103199,
+      103200
+    ],
+    "href": "/public-transport/tram/stops/bowker-vale-tram"
+  },
+  "Broadway": {
+    "location_ids": [
+      103260,
+      103261
+    ],
+    "href": "/public-transport/tram/stops/broadway-tram"
+  },
+  "Brooklands": {
+    "location_ids": [
+      103172,
+      103173
+    ],
+    "href": "/public-transport/tram/stops/brooklands-tram"
+  },
+  "Burton Road": {
+    "location_ids": [
+      103338,
+      103339
+    ],
+    "href": "/public-transport/tram/stops/burton-road-tram"
+  },
+  "Bury": {
+    "location_ids": [
+      103203,
+      103204
+    ],
+    "href": "/public-transport/tram/stops/bury-tram"
+  },
+  "Cemetery Road": {
+    "location_ids": [
+      103236,
+      103237
+    ],
+    "href": "/public-transport/tram/stops/cemetery-road-tram"
+  },
+  "Central Park": {
+    "location_ids": [
+      103293,
+      103294
+    ],
+    "href": "/public-transport/tram/stops/central-park-tram"
+  },
+  "Chorlton": {
+    "location_ids": [
+      103340,
+      103341
+    ],
+    "href": "/public-transport/tram/stops/chorlton-tram"
+  },
+  "Clayton Hall": {
+    "location_ids": [
+      103238,
+      103239,
+      103240
+    ],
+    "href": "/public-transport/tram/stops/clayton-hall-tram"
+  },
+  "Cornbrook": {
+    "location_ids": [
+      103262,
+      103263,
+      103264,
+      103265
+    ],
+    "href": "/public-transport/tram/stops/cornbrook-tram"
+  },
+  "Crossacres": {
+    "location_ids": [
+      103145,
+      103146
+    ],
+    "href": "/public-transport/tram/stops/crossacres-tram"
+  },
+  "Crumpsall": {
+    "location_ids": [
+      103205,
+      103206,
+      103207
+    ],
+    "href": "/public-transport/tram/stops/crumpsall-tram"
+  },
+  "Dane Road": {
+    "location_ids": [
+      103174,
+      103175
+    ],
+    "href": "/public-transport/tram/stops/dane-road-tram"
+  },
+  "Deansgate - Castlefield": {
+    "location_ids": [
+      103176,
+      103177,
+      103178
+    ],
+    "href": "/public-transport/tram/stops/deansgate-castlefield-tram"
+  },
+  "Derker": {
+    "location_ids": [
+      103295,
+      103296
+    ],
+    "href": "/public-transport/tram/stops/derker-tram"
+  },
+  "Didsbury Village": {
+    "location_ids": [
+      103342,
+      103343
+    ],
+    "href": "/public-transport/tram/stops/didsbury-village-tram"
+  },
+  "Droylsden": {
+    "location_ids": [
+      103241,
+      103242
+    ],
+    "href": "/public-transport/tram/stops/droylsden-tram"
+  },
+  "East Didsbury": {
+    "location_ids": [
+      103344,
+      103345,
+      103346,
+      103347
+    ],
+    "href": "/public-transport/tram/stops/east-didsbury-tram"
+  },
+  "Eccles": {
+    "location_ids": [
+      103266
+    ],
+    "href": "/public-transport/tram/stops/eccles-tram"
+  },
+  "Edge Lane": {
+    "location_ids": [
+      103243,
+      103244,
+      103245,
+      103246
+    ],
+    "href": "/public-transport/tram/stops/edge-lane-tram"
+  },
+  "Etihad Campus": {
+    "location_ids": [
+      103251,
+      103252,
+      103253,
+      103254
+    ],
+    "href": "/public-transport/tram/stops/etihad-campus-tram"
+  },
+  "Exchange Quay": {
+    "location_ids": [
+      103267,
+      103268
+    ],
+    "href": "/public-transport/tram/stops/exchange-quay-tram"
+  },
+  "Exchange Square": {
+    "location_ids": [
+      103269,
+      103270
+    ],
+    "href": "/public-transport/tram/stops/exchange-square-tram"
+  },
+  "Failsworth": {
+    "location_ids": [
+      103297,
+      103298
+    ],
+    "href": "/public-transport/tram/stops/failsworth-tram"
+  },
+  "Firswood": {
+    "location_ids": [
+      103348,
+      103349
+    ],
+    "href": "/public-transport/tram/stops/firswood-tram"
+  },
+  "Freehold": {
+    "location_ids": [
+      103299,
+      103300
+    ],
+    "href": "/public-transport/tram/stops/freehold-tram"
+  },
+  "Harbour City": {
+    "location_ids": [
+      103271,
+      103272
+    ],
+    "href": "/public-transport/tram/stops/harbour-city-tram"
+  },
+  "Heaton Park": {
+    "location_ids": [
+      103208,
+      103209
+    ],
+    "href": "/public-transport/tram/stops/heaton-park-tram"
+  },
+  "Hollinwood": {
+    "location_ids": [
+      103301,
+      103302
+    ],
+    "href": "/public-transport/tram/stops/hollinwood-tram"
+  },
+  "Holt Town": {
+    "location_ids": [
+      103247,
+      103248
+    ],
+    "href": "/public-transport/tram/stops/holt-town-tram"
+  },
+  "Imperial War Museum": {
+    "location_ids": [
+      103358,
+      103359
+    ],
+    "href": "/public-transport/tram/stops/imperial-war-museum-tram"
+  },
+  "Kingsway Business Park": {
+    "location_ids": [
+      103303,
+      103304
+    ],
+    "href": "/public-transport/tram/stops/kingsway-business-park-tram"
+  },
+  "Ladywell": {
+    "location_ids": [
+      103273,
+      103274
+    ],
+    "href": "/public-transport/tram/stops/ladywell-tram"
+  },
+  "Langworthy": {
+    "location_ids": [
+      103275,
+      103276
+    ],
+    "href": "/public-transport/tram/stops/langworthy-tram"
+  },
+  "Manchester Airport": {
+    "location_ids": [
+      103137,
+      103138
+    ],
+    "href": "/public-transport/tram/stops/manchester-airport-tram"
+  },
+  "Market Street": {
+    "location_ids": [
+      103210,
+      103211
+    ],
+    "href": "/public-transport/tram/stops/market-street-tram"
+  },
+  "Martinscroft": {
+    "location_ids": [
+      103147,
+      103148
+    ],
+    "href": "/public-transport/tram/stops/martinscroft-tram"
+  },
+  "MediaCityUK": {
+    "location_ids": [
+      103277,
+      103278,
+      103279,
+      103280
+    ],
+    "href": "/public-transport/tram/stops/mediacityuk-tram"
+  },
+  "Milnrow": {
+    "location_ids": [
+      103305,
+      103306
+    ],
+    "href": "/public-transport/tram/stops/milnrow-tram"
+  },
+  "Monsall": {
+    "location_ids": [
+      103307,
+      103308
+    ],
+    "href": "/public-transport/tram/stops/monsall-tram"
+  },
+  "Moor Road": {
+    "location_ids": [
+      103149,
+      103150
+    ],
+    "href": "/public-transport/tram/stops/barlow-moor-road-tram"
+  },
+  "Navigation Road": {
+    "location_ids": [
+      103179,
+      103180
+    ],
+    "href": "/public-transport/tram/stops/navigation-road-tram"
+  },
+  "New Islington": {
+    "location_ids": [
+      103249,
+      103250
+    ],
+    "href": "/public-transport/tram/stops/new-islington-tram"
+  },
+  "Newbold": {
+    "location_ids": [
+      103309,
+      103310
+    ],
+    "href": "/public-transport/tram/stops/newbold-tram"
+  },
+  "Newhey": {
+    "location_ids": [
+      103311,
+      103312
+    ],
+    "href": "/public-transport/tram/stops/newhey-tram"
+  },
+  "Newton Heath and Moston": {
+    "location_ids": [
+      103313,
+      103314
+    ],
+    "href": "/public-transport/tram/stops/newton-heath-and-moston-tram"
+  },
+  "Northern Moor": {
+    "location_ids": [
+      103151,
+      103152
+    ],
+    "href": "/public-transport/tram/stops/northern-moor-tram"
+  },
+  "Old Trafford": {
+    "location_ids": [
+      103181,
+      103182
+    ],
+    "href": "/public-transport/tram/stops/old-trafford-tram"
+  },
+  "Oldham Central": {
+    "location_ids": [
+      103315,
+      103316,
+      103317,
+      103318
+    ],
+    "href": "/public-transport/tram/stops/oldham-central-tram"
+  },
+  "Oldham King Street": {
+    "location_ids": [
+      103319,
+      103320
+    ],
+    "href": "/public-transport/tram/stops/oldham-king-street-tram"
+  },
+  "Oldham Mumps": {
+    "location_ids": [
+      103321,
+      103322
+    ],
+    "href": "/public-transport/tram/stops/oldham-mumps-tram"
+  },
+  "Parkway": {
+    "location_ids": [
+      103360,
+      103361
+    ],
+    "href": "/public-transport/tram/stops/parkway-tram"
+  },
+  "Peel Hall": {
+    "location_ids": [
+      103153,
+      103154
+    ],
+    "href": "/public-transport/tram/stops/peel-hall-tram"
+  },
+  "Piccadilly": {
+    "location_ids": [
+      103216,
+      103217
+    ],
+    "href": "/public-transport/tram/stops/piccadilly-gardens-tram"
+  },
+  "Piccadilly Gardens": {
+    "location_ids": [
+      103212,
+      103213,
+      103214,
+      103215
+    ],
+    "href": "/public-transport/tram/stops/piccadilly-gardens-tram"
+  },
+  "Pomona": {
+    "location_ids": [
+      103281,
+      103282
+    ],
+    "href": "/public-transport/tram/stops/pomona-tram"
+  },
+  "Prestwich": {
+    "location_ids": [
+      103218,
+      103219
+    ],
+    "href": "/public-transport/tram/stops/prestwich-tram"
+  },
+  "Queens Road": {
+    "location_ids": [
+      103220,
+      103221
+    ],
+    "href": "/public-transport/tram/stops/queens-road-tram"
+  },
+  "Radcliffe": {
+    "location_ids": [
+      103222,
+      103223
+    ],
+    "href": "/public-transport/tram/stops/radcliffe-tram"
+  },
+  "Robinswood Road": {
+    "location_ids": [
+      103155,
+      103156
+    ],
+    "href": "/public-transport/tram/stops/robinswood-road-tram"
+  },
+  "Rochdale Railway Station": {
+    "location_ids": [
+      103323,
+      103324,
+      103325,
+      103326
+    ],
+    "href": "/public-transport/tram/stops/rochdale-railway-station-tram"
+  },
+  "Rochdale Town Centre": {
+    "location_ids": [
+      103327,
+      103328,
+      103329,
+      103330
+    ],
+    "href": "/public-transport/tram/stops/rochdale-town-centre-tram"
+  },
+  "Roundthorn": {
+    "location_ids": [
+      103157,
+      103158,
+      103159,
+      103160
+    ],
+    "href": "/public-transport/tram/stops/roundthorn-tram"
+  },
+  "Sale": {
+    "location_ids": [
+      103183,
+      103184
+    ],
+    "href": "/public-transport/tram/stops/sale-tram"
+  },
+  "Sale Water Park": {
+    "location_ids": [
+      103163,
+      103164
+    ],
+    "href": "/public-transport/tram/stops/sale-water-park-tram"
+  },
+  "Salford Quays": {
+    "location_ids": [
+      103283,
+      103284
+    ],
+    "href": "/public-transport/tram/stops/salford-quays-tram"
+  },
+  "Shadowmoss": {
+    "location_ids": [
+      103161,
+      103162
+    ],
+    "href": "/public-transport/tram/stops/shadowmoss-tram"
+  },
+  "Shaw and Crompton": {
+    "location_ids": [
+      103331,
+      103332,
+      103333
+    ],
+    "href": "/public-transport/tram/stops/shaw-and-crompton-tram"
+  },
+  "Shudehill": {
+    "location_ids": [
+      103185,
+      103186
+    ],
+    "href": "/public-transport/tram/stops/shudehill-tram"
+  },
+  "South Chadderton": {
+    "location_ids": [
+      103334,
+      103335
+    ],
+    "href": "/public-transport/tram/stops/south-chadderton-tram"
+  },
+  "St Peter's Square": {
+    "location_ids": [
+      103285,
+      103286,
+      103287,
+      103288,
+      103289,
+      103290
+    ],
+    "href": "/public-transport/tram/stops/st-peters-square-tram"
+  },
+  "St Werburgh's Road": {
+    "location_ids": [
+      103350,
+      103351
+    ],
+    "href": "/public-transport/tram/stops/st-werburghs-road-tram"
+  },
+  "Stretford": {
+    "location_ids": [
+      103187,
+      103188
+    ],
+    "href": "/public-transport/tram/stops/stretford-tram"
+  },
+  "The Trafford Centre": {
+    "location_ids": [
+      103362,
+      103363
+    ],
+    "href": "/public-transport/tram/stops/the-trafford-centre-tram"
+  },
+  "Timperley": {
+    "location_ids": [
+      103191,
+      103192
+    ],
+    "href": "/public-transport/tram/stops/timperley-tram"
+  },
+  "Trafford Bar": {
+    "location_ids": [
+      103189,
+      103190
+    ],
+    "href": "/public-transport/tram/stops/trafford-bar-tram"
+  },
+  "Velopark": {
+    "location_ids": [
+      103255,
+      103256,
+      103257
+    ],
+    "href": "/public-transport/tram/stops/velopark-tram"
+  },
+  "Victoria": {
+    "location_ids": [
+      103193,
+      103194,
+      103195,
+      103196
+    ],
+    "href": "/public-transport/tram/stops/victoria-tram"
+  },
+  "Village": {
+    "location_ids": [
+      103364,
+      103365
+    ],
+    "href": "/public-transport/tram/stops/village-tram"
+  },
+  "Weaste": {
+    "location_ids": [
+      103291,
+      103292
+    ],
+    "href": "/public-transport/tram/stops/weaste-tram"
+  },
+  "West Didsbury": {
+    "location_ids": [
+      103352,
+      103353
+    ],
+    "href": "/public-transport/tram/stops/west-didsbury-tram"
+  },
+  "Westwood": {
+    "location_ids": [
+      103336,
+      103337
+    ],
+    "href": "/public-transport/tram/stops/westwood-tram"
+  },
+  "Wharfside": {
+    "location_ids": [
+      103366,
+      103367
+    ],
+    "href": "/public-transport/tram/stops/wharfside-tram"
+  },
+  "Whitefield": {
+    "location_ids": [
+      103224,
+      103225
+    ],
+    "href": "/public-transport/tram/stops/whitefield-tram"
+  },
+  "Withington": {
+    "location_ids": [
+      103354,
+      103355
+    ],
+    "href": "/public-transport/tram/stops/withington-tram"
+  },
+  "Wythenshawe Park": {
+    "location_ids": [
+      103165,
+      103166
+    ],
+    "href": "/public-transport/tram/stops/wythenshawe-park-tram"
+  },
+  "Wythenshawe Town Centre": {
+    "location_ids": [
+      103167,
+      103168,
+      103169
+    ],
+    "href": "/public-transport/tram/stops/wythenshawe-town-centre-tram"
+  }
+}
