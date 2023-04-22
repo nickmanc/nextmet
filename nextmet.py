@@ -1,5 +1,6 @@
 import os
 
+import pytz
 import streamlit as st
 from datetime import datetime
 from streamlit_autorefresh import st_autorefresh
@@ -8,6 +9,9 @@ from metrolink_lines import get_metrolink_line_status
 from trams import get_tram_departures
 
 NO_TRAM_SCHEDULED_MESSAGE = "No trams currently scheduled to depart."
+
+tz = pytz.timezone('Europe/London')
+current_time = datetime.utcnow().replace(tzinfo=pytz.utc).astimezone(tz)
 
 st.set_page_config(layout="wide")
 st.markdown(
@@ -110,7 +114,7 @@ footer = f"""<style>
 <div class="footer">
   <table>
     <tr>
-      <td>{datetime.now().strftime('%H:%M:%S')}</td>
+      <td>{current_time.strftime('%H:%M:%S')}</td>
       <td>Contains <a href="https://www.tfgm.com">TfGM</a> data</td>      
       <td>{os.getenv("RENDER_GIT_COMMIT", "local")[:7]}</td>
     </tr>
