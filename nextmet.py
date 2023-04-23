@@ -83,8 +83,8 @@ st.markdown(
 st_autorefresh(interval=15 * 1000)
 
 
-selected_morning_tram_stop_name = get_value_from_cookie_or_default(SELECTED_MORNING_TRAM_STOP_KEY, 'Bury')
-selected_afternoon_tram_stop_name = get_value_from_cookie_or_default(SELECTED_AFTERNOON_TRAM_STOP_KEY, 'Altrincham')
+selected_morning_tram_stop_name = get_value_from_cookie_or_default(SELECTED_MORNING_TRAM_STOP_KEY, 'Trafford Bar')
+selected_afternoon_tram_stop_name = get_value_from_cookie_or_default(SELECTED_AFTERNOON_TRAM_STOP_KEY, 'Stretford')
 tram_stops = get_tram_stations()
 
 
