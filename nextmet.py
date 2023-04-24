@@ -38,7 +38,7 @@ def save_user_settings():
 
 
 def renew_cookie():
-    if ('renewed_cookie' not in st.session_state):
+    if 'renewed_cookie' not in st.session_state:
         logging.info("Renewing cookie")
         cookies.save()
         st.session_state['renewed_cookie'] = True
@@ -55,13 +55,10 @@ NO_TRAM_SCHEDULED_MESSAGE = "No trams currently scheduled to depart."
 tz = pytz.timezone('Europe/London')
 current_time = datetime.utcnow().replace(tzinfo=pytz.utc).astimezone(tz)
 
-tz = pytz.timezone('Europe/London')
-current_time = datetime.utcnow().replace(tzinfo=pytz.utc).astimezone(tz)
-
 st.set_page_config(layout="wide")
 cookies = CookieManager(  # TODO - switch to encrypted cookies
     prefix="www.nextmet.co.uk"
-    # You should really setup a long cookies_password secret if you're running on Streamlit Cloud.
+    # You should really set up a long cookies_password secret if you're running on Streamlit Cloud.
     # password=os.environ.get("cookies_password", "default password")
 )
 if not cookies.ready():
