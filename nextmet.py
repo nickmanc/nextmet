@@ -124,6 +124,7 @@ def to_schedule(column):
     else:
         to_container.markdown(NO_TRAM_SCHEDULED_MESSAGE)
 
+
 col1, col2, col3 = st.columns(3)
 # if before 11am
 if datetime.now().hour < 12:
