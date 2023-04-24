@@ -88,8 +88,8 @@ selected_afternoon_tram_stop_name = get_value_from_cookie_or_default(SELECTED_AF
 tram_stops = get_tram_stations()
 
 
-def from_schedule():
-    from_container = st.container()
+def from_schedule(column):
+    from_container = column.container()
     # Display tram information in a table
     morning_tram_stop_ids = tram_stops[selected_morning_tram_stop_name]["location_ids"]
     from_container.subheader(
@@ -107,8 +107,8 @@ def from_schedule():
         from_container.markdown(NO_TRAM_SCHEDULED_MESSAGE)
 
 
-def to_schedule():
-    to_container = st.container()
+def to_schedule(column):
+    to_container = column.container()
     to_tram_stop_ids = tram_stops[selected_afternoon_tram_stop_name]["location_ids"]
     to_container.subheader(
         f"[{selected_afternoon_tram_stop_name}](https://tfgm.com{tram_stops[selected_afternoon_tram_stop_name]['href']})")
@@ -124,16 +124,16 @@ def to_schedule():
     else:
         to_container.markdown(NO_TRAM_SCHEDULED_MESSAGE)
 
-
+col1, col2, col3 = st.columns(3)
 # if before 11am
 if datetime.now().hour < 12:
-    from_schedule()
-    to_schedule()
+    from_schedule(col1)
+    to_schedule(col2)
 else:
-    to_schedule()
-    from_schedule()
+    to_schedule(col1)
+    from_schedule(col2)
 
-st.subheader("[Metrolink Status](https://tfgm.com/live-updates)")
+col3.subheader("[Metrolink Status](https://tfgm.com/live-updates)")
 metrolinkLineStatuses = get_metrolink_line_status()
 if len(metrolinkLineStatuses) > 0:
     for metrolinkLineStatus in metrolinkLineStatuses:
@@ -143,9 +143,9 @@ if len(metrolinkLineStatuses) > 0:
             statusColour = "orange"
         else:
             statusColour = "green"
-        st.markdown(f"**{metrolinkLineStatus['name']}** - :{statusColour}[{metrolinkLineStatus['status']}]")
+        col3.markdown(f"**{metrolinkLineStatus['name']}** - :{statusColour}[{metrolinkLineStatus['status']}]")
 else:
-    st.write("No line status available")
+    col3.write("No line status available")
 
 with st.expander("Preferences: "):
     with st.form(key='preferences_form'):
