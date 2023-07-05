@@ -1,727 +1,727 @@
 {
   "Abraham Moss": {
     "location_ids": [
-      127914,
-      127915
+      128145,
+      128146
     ],
     "href": "/public-transport/tram/stops/abraham-moss-tram"
   },
   "Altrincham": {
     "location_ids": [
-      127887,
-      127888
+      128118,
+      128119
     ],
     "href": "/public-transport/tram/stops/altrincham-tram"
   },
   "Anchorage": {
     "location_ids": [
-      127975,
-      127976
+      128206,
+      128207
     ],
     "href": "/public-transport/tram/stops/anchorage-tram"
   },
   "Ashton Moss": {
     "location_ids": [
-      127947,
-      127948
+      128178,
+      128179
     ],
     "href": "/public-transport/tram/stops/ashton-moss-tram"
   },
   "Ashton West": {
     "location_ids": [
-      127949,
-      127950
+      128180,
+      128181
     ],
     "href": "/public-transport/tram/stops/ashton-west-tram"
   },
   "Ashton-Under-Lyne": {
     "location_ids": [
-      127943,
-      127944,
-      127945,
-      127946
+      128174,
+      128175,
+      128176,
+      128177
     ],
     "href": "/public-transport/tram/stops/ashton-under-lyne-tram"
   },
   "Audenshaw": {
     "location_ids": [
-      127951,
-      127952
+      128182,
+      128183
     ],
     "href": "/public-transport/tram/stops/audenshaw-tram"
   },
   "Baguley": {
     "location_ids": [
-      127856,
-      127857
+      128087,
+      128088
     ],
     "href": "/public-transport/tram/stops/baguley-tram"
   },
   "Barlow Moor Road": {
     "location_ids": [
-      127860,
-      127861
+      128091,
+      128092
     ],
     "href": "/public-transport/tram/stops/barlow-moor-road-tram"
   },
   "Barton Dock Road": {
     "location_ids": [
-      128073,
-      128074
+      128304,
+      128305
     ],
     "href": "/public-transport/tram/stops/barton-dock-road-tram"
   },
   "Benchill": {
     "location_ids": [
-      127858,
-      127859
+      128089,
+      128090
     ],
     "href": "/public-transport/tram/stops/benchill-tram"
   },
   "Besses O’ Th’ Barn": {
     "location_ids": [
-      127918,
-      127919
+      128149,
+      128150
     ],
     "href": "/public-transport/tram/stops/besses-o-th-barn-tram"
   },
   "Bowker Vale": {
     "location_ids": [
-      127916,
-      127917
+      128147,
+      128148
     ],
     "href": "/public-transport/tram/stops/bowker-vale-tram"
   },
   "Broadway": {
     "location_ids": [
-      127977,
-      127978
+      128208,
+      128209
     ],
     "href": "/public-transport/tram/stops/broadway-tram"
   },
   "Brooklands": {
     "location_ids": [
-      127889,
-      127890
+      128120,
+      128121
     ],
     "href": "/public-transport/tram/stops/brooklands-tram"
   },
   "Burton Road": {
     "location_ids": [
-      128055,
-      128056
+      128286,
+      128287
     ],
     "href": "/public-transport/tram/stops/burton-road-tram"
   },
   "Bury": {
     "location_ids": [
-      127920,
-      127921
+      128151,
+      128152
     ],
     "href": "/public-transport/tram/stops/bury-tram"
   },
   "Cemetery Road": {
     "location_ids": [
-      127953,
-      127954
+      128184,
+      128185
     ],
     "href": "/public-transport/tram/stops/cemetery-road-tram"
   },
   "Central Park": {
     "location_ids": [
-      128010,
-      128011
+      128241,
+      128242
     ],
     "href": "/public-transport/tram/stops/central-park-tram"
   },
   "Chorlton": {
     "location_ids": [
-      128057,
-      128058
+      128288,
+      128289
     ],
     "href": "/public-transport/tram/stops/chorlton-tram"
   },
   "Clayton Hall": {
     "location_ids": [
-      127955,
-      127956,
-      127957
+      128186,
+      128187,
+      128188
     ],
     "href": "/public-transport/tram/stops/clayton-hall-tram"
   },
   "Cornbrook": {
     "location_ids": [
-      127979,
-      127980,
-      127981,
-      127982
+      128210,
+      128211,
+      128212,
+      128213
     ],
     "href": "/public-transport/tram/stops/cornbrook-tram"
   },
   "Crossacres": {
     "location_ids": [
-      127862,
-      127863
+      128093,
+      128094
     ],
     "href": "/public-transport/tram/stops/crossacres-tram"
   },
   "Crumpsall": {
     "location_ids": [
-      127922,
-      127923,
-      127924
+      128153,
+      128154,
+      128155
     ],
     "href": "/public-transport/tram/stops/crumpsall-tram"
   },
   "Dane Road": {
     "location_ids": [
-      127891,
-      127892
+      128122,
+      128123
     ],
     "href": "/public-transport/tram/stops/dane-road-tram"
   },
   "Deansgate - Castlefield": {
     "location_ids": [
-      127893,
-      127894,
-      127895
+      128124,
+      128125,
+      128126
     ],
     "href": "/public-transport/tram/stops/deansgate-castlefield-tram"
   },
   "Derker": {
     "location_ids": [
-      128012,
-      128013
+      128243,
+      128244
     ],
     "href": "/public-transport/tram/stops/derker-tram"
   },
   "Didsbury Village": {
     "location_ids": [
-      128059,
-      128060
+      128290,
+      128291
     ],
     "href": "/public-transport/tram/stops/didsbury-village-tram"
   },
   "Droylsden": {
     "location_ids": [
-      127958,
-      127959
+      128189,
+      128190
     ],
     "href": "/public-transport/tram/stops/droylsden-tram"
   },
   "East Didsbury": {
     "location_ids": [
-      128061,
-      128062,
-      128063,
-      128064
+      128292,
+      128293,
+      128294,
+      128295
     ],
     "href": "/public-transport/tram/stops/east-didsbury-tram"
   },
   "Eccles": {
     "location_ids": [
-      127983
+      128214
     ],
     "href": "/public-transport/tram/stops/eccles-tram"
   },
   "Edge Lane": {
     "location_ids": [
-      127960,
-      127961,
-      127962,
-      127963
+      128191,
+      128192,
+      128193,
+      128194
     ],
     "href": "/public-transport/tram/stops/edge-lane-tram"
   },
   "Etihad Campus": {
     "location_ids": [
-      127968,
-      127969,
-      127970,
-      127971
+      128199,
+      128200,
+      128201,
+      128202
     ],
     "href": "/public-transport/tram/stops/etihad-campus-tram"
   },
   "Exchange Quay": {
     "location_ids": [
-      127984,
-      127985
+      128215,
+      128216
     ],
     "href": "/public-transport/tram/stops/exchange-quay-tram"
   },
   "Exchange Square": {
     "location_ids": [
-      127986,
-      127987
+      128217,
+      128218
     ],
     "href": "/public-transport/tram/stops/exchange-square-tram"
   },
   "Failsworth": {
     "location_ids": [
-      128014,
-      128015
+      128245,
+      128246
     ],
     "href": "/public-transport/tram/stops/failsworth-tram"
   },
   "Firswood": {
     "location_ids": [
-      128065,
-      128066
+      128296,
+      128297
     ],
     "href": "/public-transport/tram/stops/firswood-tram"
   },
   "Freehold": {
     "location_ids": [
-      128016,
-      128017
+      128247,
+      128248
     ],
     "href": "/public-transport/tram/stops/freehold-tram"
   },
   "Harbour City": {
     "location_ids": [
-      127988,
-      127989
+      128219,
+      128220
     ],
     "href": "/public-transport/tram/stops/harbour-city-tram"
   },
   "Heaton Park": {
     "location_ids": [
-      127925,
-      127926
+      128156,
+      128157
     ],
     "href": "/public-transport/tram/stops/heaton-park-tram"
   },
   "Hollinwood": {
     "location_ids": [
-      128018,
-      128019
+      128249,
+      128250
     ],
     "href": "/public-transport/tram/stops/hollinwood-tram"
   },
   "Holt Town": {
     "location_ids": [
-      127964,
-      127965
+      128195,
+      128196
     ],
     "href": "/public-transport/tram/stops/holt-town-tram"
   },
   "Imperial War Museum": {
     "location_ids": [
-      128075,
-      128076
+      128306,
+      128307
     ],
     "href": "/public-transport/tram/stops/imperial-war-museum-tram"
   },
   "Kingsway Business Park": {
     "location_ids": [
-      128020,
-      128021
+      128251,
+      128252
     ],
     "href": "/public-transport/tram/stops/kingsway-business-park-tram"
   },
   "Ladywell": {
     "location_ids": [
-      127990,
-      127991
+      128221,
+      128222
     ],
     "href": "/public-transport/tram/stops/ladywell-tram"
   },
   "Langworthy": {
     "location_ids": [
-      127992,
-      127993
+      128223,
+      128224
     ],
     "href": "/public-transport/tram/stops/langworthy-tram"
   },
   "Manchester Airport": {
     "location_ids": [
-      127854,
-      127855
+      128085,
+      128086
     ],
     "href": "/public-transport/tram/stops/manchester-airport-tram"
   },
   "Market Street": {
     "location_ids": [
-      127927,
-      127928
+      128158,
+      128159
     ],
     "href": "/public-transport/tram/stops/market-street-tram"
   },
   "Martinscroft": {
     "location_ids": [
-      127864,
-      127865
+      128095,
+      128096
     ],
     "href": "/public-transport/tram/stops/martinscroft-tram"
   },
   "MediaCityUK": {
     "location_ids": [
-      127994,
-      127995,
-      127996,
-      127997
+      128225,
+      128226,
+      128227,
+      128228
     ],
     "href": "/public-transport/tram/stops/mediacityuk-tram"
   },
   "Milnrow": {
     "location_ids": [
-      128022,
-      128023
+      128253,
+      128254
     ],
     "href": "/public-transport/tram/stops/milnrow-tram"
   },
   "Monsall": {
     "location_ids": [
-      128024,
-      128025
+      128255,
+      128256
     ],
     "href": "/public-transport/tram/stops/monsall-tram"
   },
   "Moor Road": {
     "location_ids": [
-      127866,
-      127867
+      128097,
+      128098
     ],
     "href": "/public-transport/tram/stops/barlow-moor-road-tram"
   },
   "Navigation Road": {
     "location_ids": [
-      127896,
-      127897
+      128127,
+      128128
     ],
     "href": "/public-transport/tram/stops/navigation-road-tram"
   },
   "New Islington": {
     "location_ids": [
-      127966,
-      127967
+      128197,
+      128198
     ],
     "href": "/public-transport/tram/stops/new-islington-tram"
   },
   "Newbold": {
     "location_ids": [
-      128026,
-      128027
+      128257,
+      128258
     ],
     "href": "/public-transport/tram/stops/newbold-tram"
   },
   "Newhey": {
     "location_ids": [
-      128028,
-      128029
+      128259,
+      128260
     ],
     "href": "/public-transport/tram/stops/newhey-tram"
   },
   "Newton Heath and Moston": {
     "location_ids": [
-      128030,
-      128031
+      128261,
+      128262
     ],
     "href": "/public-transport/tram/stops/newton-heath-and-moston-tram"
   },
   "Northern Moor": {
     "location_ids": [
-      127868,
-      127869
+      128099,
+      128100
     ],
     "href": "/public-transport/tram/stops/northern-moor-tram"
   },
   "Old Trafford": {
     "location_ids": [
-      127898,
-      127899
+      128129,
+      128130
     ],
     "href": "/public-transport/tram/stops/old-trafford-tram"
   },
   "Oldham Central": {
     "location_ids": [
-      128032,
-      128033,
-      128034,
-      128035
+      128263,
+      128264,
+      128265,
+      128266
     ],
     "href": "/public-transport/tram/stops/oldham-central-tram"
   },
   "Oldham King Street": {
     "location_ids": [
-      128036,
-      128037
+      128267,
+      128268
     ],
     "href": "/public-transport/tram/stops/oldham-king-street-tram"
   },
   "Oldham Mumps": {
     "location_ids": [
-      128038,
-      128039
+      128269,
+      128270
     ],
     "href": "/public-transport/tram/stops/oldham-mumps-tram"
   },
   "Parkway": {
     "location_ids": [
-      128077,
-      128078
+      128308,
+      128309
     ],
     "href": "/public-transport/tram/stops/parkway-tram"
   },
   "Peel Hall": {
     "location_ids": [
-      127870,
-      127871
+      128101,
+      128102
     ],
     "href": "/public-transport/tram/stops/peel-hall-tram"
   },
   "Piccadilly": {
     "location_ids": [
-      127933,
-      127934
+      128164,
+      128165
     ],
     "href": "/public-transport/tram/stops/piccadilly-gardens-tram"
   },
   "Piccadilly Gardens": {
     "location_ids": [
-      127929,
-      127930,
-      127931,
-      127932
+      128160,
+      128161,
+      128162,
+      128163
     ],
     "href": "/public-transport/tram/stops/piccadilly-gardens-tram"
   },
   "Pomona": {
     "location_ids": [
-      127998,
-      127999
+      128229,
+      128230
     ],
     "href": "/public-transport/tram/stops/pomona-tram"
   },
   "Prestwich": {
     "location_ids": [
-      127935,
-      127936
+      128166,
+      128167
     ],
     "href": "/public-transport/tram/stops/prestwich-tram"
   },
   "Queens Road": {
     "location_ids": [
-      127937,
-      127938
+      128168,
+      128169
     ],
     "href": "/public-transport/tram/stops/queens-road-tram"
   },
   "Radcliffe": {
     "location_ids": [
-      127939,
-      127940
+      128170,
+      128171
     ],
     "href": "/public-transport/tram/stops/radcliffe-tram"
   },
   "Robinswood Road": {
     "location_ids": [
-      127872,
-      127873
+      128103,
+      128104
     ],
     "href": "/public-transport/tram/stops/robinswood-road-tram"
   },
   "Rochdale Railway Station": {
     "location_ids": [
-      128040,
-      128041,
-      128042,
-      128043
+      128271,
+      128272,
+      128273,
+      128274
     ],
     "href": "/public-transport/tram/stops/rochdale-railway-station-tram"
   },
   "Rochdale Town Centre": {
     "location_ids": [
-      128044,
-      128045,
-      128046,
-      128047
+      128275,
+      128276,
+      128277,
+      128278
     ],
     "href": "/public-transport/tram/stops/rochdale-town-centre-tram"
   },
   "Roundthorn": {
     "location_ids": [
-      127874,
-      127875,
-      127876,
-      127877
+      128105,
+      128106,
+      128107,
+      128108
     ],
     "href": "/public-transport/tram/stops/roundthorn-tram"
   },
   "Sale": {
     "location_ids": [
-      127900,
-      127901
+      128131,
+      128132
     ],
     "href": "/public-transport/tram/stops/sale-tram"
   },
   "Sale Water Park": {
     "location_ids": [
-      127880,
-      127881
+      128111,
+      128112
     ],
     "href": "/public-transport/tram/stops/sale-water-park-tram"
   },
   "Salford Quays": {
     "location_ids": [
-      128000,
-      128001
+      128231,
+      128232
     ],
     "href": "/public-transport/tram/stops/salford-quays-tram"
   },
   "Shadowmoss": {
     "location_ids": [
-      127878,
-      127879
+      128109,
+      128110
     ],
     "href": "/public-transport/tram/stops/shadowmoss-tram"
   },
   "Shaw and Crompton": {
     "location_ids": [
-      128048,
-      128049,
-      128050
+      128279,
+      128280,
+      128281
     ],
     "href": "/public-transport/tram/stops/shaw-and-crompton-tram"
   },
   "Shudehill": {
     "location_ids": [
-      127902,
-      127903
+      128133,
+      128134
     ],
     "href": "/public-transport/tram/stops/shudehill-tram"
   },
   "South Chadderton": {
     "location_ids": [
-      128051,
-      128052
+      128282,
+      128283
     ],
     "href": "/public-transport/tram/stops/south-chadderton-tram"
   },
-  "St Peter’s Square": {
+  "St Peter's Square": {
     "location_ids": [
-      128002,
-      128003,
-      128004,
-      128005,
-      128006,
-      128007
+      128233,
+      128234,
+      128235,
+      128236,
+      128237,
+      128238
     ],
     "href": "/public-transport/tram/stops/st-peters-square-tram"
   },
   "St Werburgh’s Road": {
     "location_ids": [
-      128067,
-      128068
+      128298,
+      128299
     ],
     "href": "/public-transport/tram/stops/st-werburghs-road-tram"
   },
   "Stretford": {
     "location_ids": [
-      127904,
-      127905
+      128135,
+      128136
     ],
     "href": "/public-transport/tram/stops/stretford-tram"
   },
   "The Trafford Centre": {
     "location_ids": [
-      128079,
-      128080
+      128310,
+      128311
     ],
     "href": "/public-transport/tram/stops/the-trafford-centre-tram"
   },
   "Timperley": {
     "location_ids": [
-      127908,
-      127909
+      128139,
+      128140
     ],
     "href": "/public-transport/tram/stops/timperley-tram"
   },
   "Trafford Bar": {
     "location_ids": [
-      127906,
-      127907
+      128137,
+      128138
     ],
     "href": "/public-transport/tram/stops/trafford-bar-tram"
   },
   "Velopark": {
     "location_ids": [
-      127972,
-      127973,
-      127974
+      128203,
+      128204,
+      128205
     ],
     "href": "/public-transport/tram/stops/velopark-tram"
   },
   "Victoria": {
     "location_ids": [
-      127910,
-      127911,
-      127912,
-      127913
+      128141,
+      128142,
+      128143,
+      128144
     ],
     "href": "/public-transport/tram/stops/victoria-tram"
   },
   "Village": {
     "location_ids": [
-      128081,
-      128082
+      128312,
+      128313
     ],
     "href": "/public-transport/tram/stops/village-tram"
   },
   "Weaste": {
     "location_ids": [
-      128008,
-      128009
+      128239,
+      128240
     ],
     "href": "/public-transport/tram/stops/weaste-tram"
   },
   "West Didsbury": {
     "location_ids": [
-      128069,
-      128070
+      128300,
+      128301
     ],
     "href": "/public-transport/tram/stops/west-didsbury-tram"
   },
   "Westwood": {
     "location_ids": [
-      128053,
-      128054
+      128284,
+      128285
     ],
     "href": "/public-transport/tram/stops/westwood-tram"
   },
   "Wharfside": {
     "location_ids": [
-      128083,
-      128084
+      128314,
+      128315
     ],
     "href": "/public-transport/tram/stops/wharfside-tram"
   },
   "Whitefield": {
     "location_ids": [
-      127941,
-      127942
+      128172,
+      128173
     ],
     "href": "/public-transport/tram/stops/whitefield-tram"
   },
   "Withington": {
     "location_ids": [
-      128071,
-      128072
+      128302,
+      128303
     ],
     "href": "/public-transport/tram/stops/withington-tram"
   },
   "Wythenshawe Park": {
     "location_ids": [
-      127882,
-      127883
+      128113,
+      128114
     ],
     "href": "/public-transport/tram/stops/wythenshawe-park-tram"
   },
   "Wythenshawe Town Centre": {
     "location_ids": [
-      127884,
-      127885,
-      127886
+      128115,
+      128116,
+      128117
     ],
     "href": "/public-transport/tram/stops/wythenshawe-town-centre-tram"
   }
